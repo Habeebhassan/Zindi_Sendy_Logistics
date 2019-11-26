@@ -1,4 +1,4 @@
-# Zindi_Sendy_Logistics
+# Zindi_Sendy_Logistics with a model score of 99.9 Accuracy
 Predictive analysis of logistics company's datasets
 
 Zindi called for a competition, in collaboration with Sendy - A logistics platform, that transports consumers' product from one location to another.
